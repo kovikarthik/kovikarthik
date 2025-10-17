@@ -28,7 +28,7 @@ I build **scalable, accessible, and high-performance** apps across **web, mobile
 ## 🚀 Featured Work
 | Project | Tech | What Stands Out |
 |---|---|---|
-| [**FutureU Mobile App**](https://www.asicsulb.org/corporate/discover/futureu) | React Native · Node · AWS · SSO · Push | Campus app with WCAG AA compliance, 12K+ monthly users |
+| [**FutureU App**](https://www.asicsulb.org/corporate/discover/futureu) | React Native · Node · AWS · SSO · Push | Campus app with WCAG AA compliance, 12K+ monthly users |
 | [**NativeNest Grocery**](https://nativenest.in) | React/Next.js · GraphQL · AWS | 30K+ users, 99.9% uptime, latency ↓30%, automated CI/CD |
 | [**Origem Jewellery**](https://origemindia.com) | Next.js · Redis · Razorpay · ISR | 25% faster loads, ₹20M revenue/3mo, SEO optimized |
 | [**Arikya (SaaS)**](https://arikya.in) | Angular · Node · GraphQL · AWS | 10K+ students, 500+ placements, cloud-deployed |
@@ -48,7 +48,7 @@ I build **scalable, accessible, and high-performance** apps across **web, mobile
 - Built and maintained **FutureU** (12K+ users) and **22WestMedia CMS** with WCAG 2.2 AA compliance  
 - Automated CI/CD pipelines (–40% deployment effort) and improved AWS performance by **30%**
 
-**Full Stack Developer — Infobell IT Solutions** · *Jan 2023 – Jan 2025*  
+**Software Engineer — Infobell IT Solutions** · *Jan 2023 – Jan 2025*  
 - Led 4-member team for **NativeNest** (30K+ users); improved checkout speed by **30%** via Apollo caching  
 - Developed **Origem** (Next.js + Redis) with **25% faster** loads and SEO-optimized architecture  
 - Built **MirrorMate** (C# desktop casting) and delivered 6 feature releases on-time under Agile sprints  
