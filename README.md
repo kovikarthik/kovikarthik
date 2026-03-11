@@ -8,7 +8,7 @@ I build **scalable, accessible, and high-performance** apps across **web, mobile
 
 ## 💡 About
 - 3+ years of experience building **production-grade software** with measurable business impact  
-- **Full Stack:** React, Next.js, Angular, React Native, Node.js, Express, NestJS, Flask  
+- **Full Stack:** React, Next.js, Angular, React Native, Java(Spring Boot), Node.js, Express, NestJS, Flask  
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, LightSail), Docker, GitHub Actions, GitOps CI/CD  
 - **Data & APIs:** PostgreSQL, MongoDB, MySQL, Redis, GraphQL, REST, Swagger  
 - **Mobile:** React Native (iOS/Android), push notifications, payments, CI/CD automation  
