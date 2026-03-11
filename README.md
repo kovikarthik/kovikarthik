@@ -38,7 +38,7 @@ I build **scalable, accessible, and high-performance** apps across **web, mobile
 ---
 
 ## 🧠 Focus
-`React` · `React Native` · `Next.js` · `Node.js` · `GraphQL` · `AWS` · `Redis` · `Docker` · `CI/CD` · `WCAG` · `TypeScript` · `MongoDB`
+`React` · `React Native` · `Next.js` · `Java Spring Boot` · `Node.js` · `GraphQL` · `AWS` · `Redis` · `Docker` · `CI/CD` · `WCAG` · `TypeScript` · `MongoDB`
 
 ---
 
