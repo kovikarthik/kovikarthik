@@ -29,7 +29,7 @@ I build **scalable, accessible, and high-performance** apps across **web, mobile
 | Project | Tech | What Stands Out |
 |---|---|---|
 | [**FutureU App**](https://www.asicsulb.org/corporate/discover/futureu) | React Native · Node · AWS · SSO · Push | Campus app with WCAG AA compliance, 12K+ monthly users |
-| [**NativeNest Grocery**](https://nativenest.in) | React/Next.js · GraphQL · AWS | 30K+ users, 99.9% uptime, latency ↓30%, automated CI/CD |
+| [**NativeNest Grocery**](https://nativenest.in) | React/Next.js · Java · AWS | 30K+ users, 99.9% uptime, latency ↓30%, automated CI/CD |
 | [**Origem Jewellery**](https://origemindia.com) | Next.js · Redis · Razorpay · ISR | 25% faster loads, ₹20M revenue/3mo, SEO optimized |
 | [**Arikya (SaaS)**](https://arikya.in) | Angular · Node · GraphQL · AWS | 10K+ students, 500+ placements, cloud-deployed |
 | [**Booking Bee (AI)**](https://bookingbee.ai) | Angular · NestJS · Dasha AI · MongoDB | AI scheduling with 80% automation across 10K+ bookings |
