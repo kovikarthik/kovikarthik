@@ -1,6 +1,6 @@
 # Hi, I'm **Karthik Kovi** 👋  
 
-**Full-Stack Developer | MSCS @ California State University, Long Beach (2025–2027)**  
+**SDE @ Amazon | MSCS @ California State University, Long Beach (2025–2027)**  
 Every project starts as an idea — I turn it into something real.  
 I build **scalable, accessible, and high-performance** apps across **web, mobile, and cloud**, used by **tens of thousands**.
 
